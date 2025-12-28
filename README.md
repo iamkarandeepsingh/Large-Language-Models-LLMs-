@@ -1,4 +1,4 @@
-## Large Language Models (LLMs)
+# Large Language Models (LLMs)
 
 ## 📖 Introduction
 
